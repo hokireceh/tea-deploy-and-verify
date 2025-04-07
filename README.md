@@ -8,7 +8,7 @@
 ├── contracts/
 │   └── HokiReceh.sol
 ├── scripts/
-│   ├── hoki-pro-deployer.js  ✅ (ini file baru)
+│   ├── hoki-pro-deployer.js
 ├── hardhat.config.js
 ├── .env
 ```
