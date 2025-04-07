@@ -20,14 +20,4 @@
 npx hardhat run scripts/hoki-pro-deployer.js --network tea-sepolia
 ```
 
----
 
-### ✅ Pastikan `.env` kamu berisi:
-```
-BOT_TOKEN=123456:ABCDEFyourbottoken
-CHAT_ID=123456789
-```
-
----
-
-Kalau kamu mau tambah fitur auto-screenshot, log ke file `.txt`, atau notif error spesifik, tinggal bilang aja, gue bantu pasangin biar makin PRO 😎
