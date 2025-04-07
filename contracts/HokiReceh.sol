@@ -6,7 +6,7 @@ contract HokiReceh {
     address public owner;
 
     constructor() {
-        greeting = "Wassup from Hokireceh!";
+        greeting = "Wassup from HokiReceh!";
         owner = msg.sender;
     }
 
@@ -24,12 +24,12 @@ contract HokiReceh {
             abi.encodePacked(
                 unicode"👋 ", 
                 greeting,
-                " - Signed by Hokireceh"
+                " - Signed by HokiReceh"
             )
         );
     }
 
     function whoami() public pure returns (string memory) {
-        return unicode"💎 This is the legendary smart contract by Hokireceh 💎";
+        return unicode"💎 This is the legendary smart contract by HokiReceh 💎";
     }
 }
