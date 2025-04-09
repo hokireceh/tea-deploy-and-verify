@@ -11,12 +11,20 @@
 │   ├── hoki-pro-deployer.js
 ├── hardhat.config.js
 ├── .env
+├── package.json
 ```
 
 ---
 
 ### 🟢 Jalankan dengan:
 ```bash
+git clone https://github.com/hokireceh/tea-deploy-and-verify.git
+```
+```bash
+cd tea-deploy-and-verify
+```
+```bash
+npm i
 npx hardhat run scripts/hoki-pro-deployer.js --network tea-sepolia
 ```
 
