@@ -28,4 +28,5 @@ npm i
 npx hardhat run scripts/hoki-pro-deployer.js --network tea-sepolia
 ```
 
-
+### DONASI SINI COK Jangan Pelit Jadi Orang ...
+- Trakteer : [https://trakteer.id/garapanairdrop/tip](https://trakteer.id/garapanairdrop/tip)
